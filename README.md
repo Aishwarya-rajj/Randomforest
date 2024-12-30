@@ -1,3 +1,9 @@
+**NAME:** AISHWARYA RAJ
+**COMPANY:** CODETECH IT SOLUTIONS
+**ID:** CT08ESQ
+**DOMAIN** MACHINE LEARNING
+**DURATION:** 20TH DECEMBER 2024 - 20TH JANUARY 2025
+**MENTOR:** NEELA SANTHOSH
 ## Project Overview
 
 This project implements a Decision Tree model to classify the Iris dataset using Scikit-learn. The model visualizes decision boundaries and predicts the species of iris flowers based on input features such as petal and sepal dimensions.
